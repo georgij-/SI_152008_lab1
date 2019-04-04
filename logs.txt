@@ -1,0 +1,7 @@
+georgij@x554l:~/PersonalProjects/SI_152008_lab1$ git log
+commit 55eefa971bb13cc60e2b5604bae0507de71d0f3f (HEAD -> logs, origin/master, master)
+Author: Georgij Golaboski <georgij.golaboski@gmail.com>
+Date:   Thu Apr 4 10:24:05 2019 +0200
+
+    Initial commit
+
