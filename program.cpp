@@ -14,4 +14,10 @@ void printMyIndex () {
 
 int main () {
 	//TODO
+	string imeprezime;
+	string index;
+	imeprezime = printMyName();
+	indeks = printMyIndex();
+	cout<<imeprezime<<indeks;
+
 }
