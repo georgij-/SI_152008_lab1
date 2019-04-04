@@ -1,5 +1,30 @@
 georgij@x554l:~/PersonalProjects/SI_152008_lab1$ git log
-commit 55eefa971bb13cc60e2b5604bae0507de71d0f3f (HEAD -> logs, origin/master, master)
+commit 5c4775b10e63eb8e7e9f8650b445fb53ae244227 (HEAD -> master, origin/master, origin/mainImplementation, mainImplementation)
+Author: Georgij Golaboski <georgij.golaboski@gmail.com>
+Date:   Thu Apr 4 10:35:55 2019 +0200
+
+    main part implemented
+
+commit bbbf1e151e91be903120e9913baec6e5c8569590 (logs)
+Merge: 834faff 349d75d
+Author: Georgij Golaboski <georgij.golaboski@gmail.com>
+Date:   Thu Apr 4 10:32:58 2019 +0200
+
+    Merge branch 'bugFix1' into logs
+
+commit 834faff9cc93c9a3a8847cb2e92295d0ecb5a006 (origin/logs)
+Author: Georgij Golaboski <georgij.golaboski@gmail.com>
+Date:   Thu Apr 4 10:32:13 2019 +0200
+
+    logs added
+
+commit 349d75d2acb2c5074d51ded3cb7d43072c2e8e0f (origin/bugFix1, bugFix1)
+Author: Georgij Golaboski <georgij.golaboski@gmail.com>
+Date:   Thu Apr 4 10:25:34 2019 +0200
+
+    functions implemented
+
+commit 55eefa971bb13cc60e2b5604bae0507de71d0f3f
 Author: Georgij Golaboski <georgij.golaboski@gmail.com>
 Date:   Thu Apr 4 10:24:05 2019 +0200
 
